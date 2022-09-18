@@ -1,0 +1,23 @@
+{
+  "name": "new-algorthms-questions",
+  "version": "1.0.0",
+  "description": "just for reviews",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okarachidera/new-algorthms-questions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okarachidera/new-algorthms-questions/issues"
+  },
+  "homepage": "https://github.com/okarachidera/new-algorthms-questions#readme",
+  "dependencies": {
+    "jest": "^29.0.3"
+  }
+}
